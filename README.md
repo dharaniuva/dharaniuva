@@ -186,10 +186,10 @@ My background in enterprise IT support (200+ users, Aditya Birla Group) gives me
 | Badge | Certification | Provider | Year |
 |-------|--------------|----------|------|
 | 🎯 | **Cisco Ethical Hacking** | Cisco | 2025 |
-| 🔐 | **CompTIA Security+** *(Training Completion)* | Udemy | — |
-| 📊 | **Splunk Power User** | Udemy | — |
-| 💀 | **Ethical Hacking** | Udemy | — |
-| 🕵️ | **Junior Penetration Tester** | Udemy | — |
+| 🔐 | **CompTIA Security+** *(Training Completion)* | Udemy | 2025|
+| 📊 | **Splunk Power User** | Udemy | 2025|
+| 💀 | **Ethical Hacking** | Udemy | 2024|
+| 🕵️ | **Junior Penetration Tester** | Udemy | 2026|
 
 </div>
 
@@ -226,7 +226,6 @@ If you're looking for a dedicated, hands-on cybersecurity professional who think
 ![Profile Views](https://komarev.com/ghpvc/?username=dharanidharan&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-## Hi there 👋
 
 <!--
 **dharaniuva/dharaniuva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
