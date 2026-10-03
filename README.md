@@ -10,7 +10,7 @@
 ```
 
 # Dharani Dharan
-### `[ Cyber Security Analyst ]` · `[ SOC Analyst ]` · `[ Penetration Tester ]`
+### `[ IT Support Engineer @ Teceze UK ]` · `[ Founder @ Dslash Technologies ]` · `[ Aspiring SOC Analyst & Pentester ]`
 
 [![Location](https://img.shields.io/badge/📍_Manchester-United_Kingdom-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41)](https://maps.google.com/?q=Manchester,UK)
 [![Email](https://img.shields.io/badge/📧_Email-dharaniuva98@gmail.com-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41)](mailto:dharaniuva98@gmail.com)
@@ -32,27 +32,63 @@
 ## 🛡️ About Me
 
 ```python
-class CyberSecurityAnalyst:
+class CyberSecurityProfessional:
     def __init__(self):
         self.name       = "Dharani Dharan"
-        self.role       = "Cyber Security Analyst / SOC Analyst"
+        self.role       = "IT Support Engineer @ Teceze UK"
+        self.venture    = "Founder — Dslash Technologies Ltd"
         self.location   = "Manchester, UK"
-        self.education  = "MSc Cyber Security — University of Law, Manchester"
+        self.education  = "MSc Cyber Security (Merit) — University of Law, Manchester"
         self.focus      = [
             "Threat Detection & Incident Response",
             "Penetration Testing & Vulnerability Assessment",
             "Security Monitoring (SIEM)",
             "Security Frameworks & Compliance",
         ]
-        self.status     = "Open to Opportunities 🟢"
+        self.learning   = ["OSCP", "CREST CRT"]
+        self.status     = "Open to SOC Analyst / Penetration Tester roles 🟢"
 
     def __str__(self):
-        return f"Securing the digital world, one vulnerability at a time."
+        return "Securing the digital world, one vulnerability at a time."
 ```
 
-Cybersecurity postgraduate with hands-on experience in **penetration testing**, **vulnerability assessment**, and **security monitoring**. I bridge the gap between offensive and defensive security — finding the weaknesses before the attackers do, then building the controls to stop them.
+Cybersecurity postgraduate (**MSc, Merit**) currently working as an **IT Support Engineer at Teceze UK**, and founder of **Dslash Technologies Ltd** — a cybersecurity startup building automated security tooling for UK SMBs.
 
-My background in enterprise IT support (200+ users, Aditya Birla Group) gives me a grounded, operational mindset. I understand how real infrastructure works, which makes me a sharper analyst when threats emerge.
+I bridge offensive and defensive security — finding the weaknesses before attackers do, then building the controls to stop them. Years of hands-on enterprise IT support (Teceze, Aditya Birla Group) give me a grounded, operational view of how real infrastructure works — and how it breaks.
+
+---
+
+## 🔭 Currently
+
+```bash
+$ whoami --now
+> 💼  Supporting enterprise users as an IT Support Engineer @ Teceze UK
+> 🚀  Building Dslash Phantom — automated pentesting & vuln scanning platform
+> 📚  Working towards OSCP and CREST CRT
+> 🎯  Seeking SOC Analyst / Penetration Tester opportunities in the UK
+```
+
+---
+
+## 🚀 Dslash Technologies Ltd — Founder
+
+> *Cybersecurity startup focused on making security testing and compliance accessible to UK SMBs*
+
+### 👻 Dslash Phantom — *Built*
+Automated penetration testing and vulnerability scanning platform.
+
+- 🐍 Built with **Python / Flask**, using **python-nmap** for network discovery and service enumeration
+- 🧬 Matches detected services against known vulnerabilities via the **NVD CVE API**
+- 📊 Generates **risk scores** to help prioritise remediation
+
+### 🗺️ Roadmap
+| Product | Purpose | Status |
+|---------|---------|--------|
+| 👻 **Phantom** | Automated pentesting & vulnerability scanning | ✅ Built |
+| 🛰️ **Sentinel** | Continuous security monitoring | 🔧 Next up |
+| 🛡️ **Guard** | Compliance reporting (Cyber Essentials, ISO 27001, GDPR) | 🔧 Next up |
+| ⚙️ **Core** | Unified platform | 📋 Planned |
+| 🔐 **Vault** | Secure data protection | 📋 Planned |
 
 ---
 
@@ -61,11 +97,13 @@ My background in enterprise IT support (200+ users, Aditya Birla Group) gives me
 <div align="center">
 
 ### 🔴 Offensive Security
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=00ff41)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00BFFF?style=for-the-badge&logo=nmap&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-4B0082?style=for-the-badge&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
 
 ### 🔵 Defensive Security & Monitoring
@@ -82,8 +120,9 @@ My background in enterprise IT support (200+ users, Aditya Birla Group) gives me
 ![Active Directory](https://img.shields.io/badge/Active_Directory-003399?style=for-the-badge&logo=microsoft&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
 
-### 💻 Programming & Scripting
+### 💻 Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -105,6 +144,7 @@ My background in enterprise IT support (200+ users, Aditya Birla Group) gives me
 | 🇬🇧 **Cyber Essentials** | UK Government Security Baseline |
 | 🕸️ **OWASP Top 10** | Web Application Security |
 | 🔬 **CREST** | Penetration Testing Methodology |
+| ⚙️ **ITIL** | IT Service Management |
 
 </div>
 
@@ -113,7 +153,7 @@ My background in enterprise IT support (200+ users, Aditya Birla Group) gives me
 ## 🔬 Security Projects
 
 ### 🏢 Network & Penetration Testing — Synergic Solutions Ltd
-> *Full-scope pentest engagement aligned with OWASP and CREST methodologies*
+> *Authorised full-scope pentest engagement aligned with OWASP and CREST methodologies*
 
 - 🎯 Conducted structured vulnerability assessment across the target's web and network infrastructure
 - 💉 Simulated real-world attacks: **SQL injection**, **insecure file upload exploitation**, and **ARP spoofing**
@@ -122,7 +162,7 @@ My background in enterprise IT support (200+ users, Aditya Birla Group) gives me
 ---
 
 ### 🏭 Business Simulation — VulnTech Inc
-> *Red team exercise: reconnaissance through exploitation*
+> *Attack/defence exercise: reconnaissance through exploitation*
 
 - 🔍 Performed full-scope **reconnaissance** and **vulnerability scanning** using Nmap, Nikto, and Metasploit
 - 🔐 Simulated **password-spraying attacks** via Hydra to identify weak authentication surfaces
@@ -130,7 +170,7 @@ My background in enterprise IT support (200+ users, Aditya Birla Group) gives me
 
 ---
 
-### 🛒 Cyber Hygiene Assessment — Shoppeasy Ltd
+### 🛒 Cyber Hygiene Assessment — ShoppeEasy Ltd
 > *Policy framework development aligned with global security standards*
 
 - 📄 Developed a comprehensive **cybersecurity policy framework** from the ground up
@@ -150,6 +190,20 @@ My background in enterprise IT support (200+ users, Aditya Birla Group) gives me
 ---
 
 ## 💼 Professional Experience
+
+### IT Support Engineer · *Teceze UK — Client: Emerson (Leicester)*
+**Jun 2026 – Present**
+
+- Providing on-site and remote **IT support** for a global industrial technology client
+- Resolving incidents and service requests across **Windows, Active Directory, and network** environments within SLA
+- Applying security best practice in day-to-day operations — **access management**, endpoint hygiene, and escalation of suspicious activity
+
+### Founder · *Dslash Technologies Ltd — Manchester, UK*
+**2026 – Present**
+
+- Founded a cybersecurity startup targeting **UK SMB security and compliance** needs
+- Designed and built **Dslash Phantom**, an automated pentesting and vulnerability scanning platform (Python/Flask, Nmap, NVD API)
+- Defining a five-product roadmap spanning **scanning, monitoring, and compliance reporting**
 
 ### Technical Support Engineer · *Aditya Birla Group — India*
 **Nov 2022 – Jun 2024**
@@ -172,7 +226,7 @@ My background in enterprise IT support (200+ users, Aditya Birla Group) gives me
 
 | Degree | Institution | Period |
 |--------|-------------|--------|
-| 🎓 **MSc Cyber Security** | University of Law — Manchester, UK | Feb 2025 – Feb 2026 |
+| 🎓 **MSc Cyber Security — Merit** | University of Law — Manchester, UK | Feb 2025 – Feb 2026 |
 | 📚 **B.Com Computer Applications** | K.S.R. College — India | 2017 – 2020 |
 
 **MSc Relevant Modules:** Network & Penetration Testing · Cyber Hygiene · Cloud Security · Business Simulation · Data Security
@@ -186,10 +240,18 @@ My background in enterprise IT support (200+ users, Aditya Birla Group) gives me
 | Badge | Certification | Provider | Year |
 |-------|--------------|----------|------|
 | 🎯 | **Cisco Ethical Hacking** | Cisco | 2025 |
-| 🔐 | **CompTIA Security+** *(Training Completion)* | Udemy | 2025|
-| 📊 | **Splunk Power User** | Udemy | 2025|
-| 💀 | **Ethical Hacking** | Udemy | 2024|
-| 🕵️ | **Junior Penetration Tester** | Udemy | 2026|
+| ⚙️ | **ITIL Foundation** | — | — |
+| 🔐 | **CompTIA Security+** *(Training Completion)* | Udemy | 2025 |
+| 📊 | **Splunk Power User** | Udemy | 2025 |
+| 💀 | **Ethical Hacking** | Udemy | 2024 |
+| 🕵️ | **Junior Penetration Tester** | Udemy | 2026 |
+
+### 🔄 In Progress
+
+| Badge | Certification | Provider |
+|-------|--------------|----------|
+| ☠️ | **OSCP** — Offensive Security Certified Professional | OffSec |
+| 🔬 | **CRT** — CREST Registered Penetration Tester | CREST |
 
 </div>
 
@@ -198,14 +260,15 @@ My background in enterprise IT support (200+ users, Aditya Birla Group) gives me
 ## 📊 Core Competencies
 
 ```
-Penetration Testing        ████████████████████ Advanced
-Vulnerability Assessment   ████████████████████ Advanced
+Penetration Testing        ████████████████░░░░ Proficient
+Vulnerability Assessment   █████████████████░░░ Proficient
+IT Support & Operations    ████████████████████ Advanced
 SIEM Monitoring            ███████████████░░░░░ Proficient
-Incident Response          ████████████████░░░░ Proficient
-Threat Detection           ████████████████░░░░ Proficient
+Incident Response          ███████████████░░░░░ Proficient
+Threat Detection           ███████████████░░░░░ Proficient
 Log Analysis               ███████████████░░░░░ Proficient
+Python / Flask Development █████████████░░░░░░░ Developing
 Cloud Security (AWS/Azure) █████████████░░░░░░░ Developing
-Python Scripting           ████████████░░░░░░░░ Developing
 ```
 
 ---
@@ -223,21 +286,6 @@ If you're looking for a dedicated, hands-on cybersecurity professional who think
 
 *"The quieter you become, the more you can hear."* — Kali Linux motto
 
-![Profile Views](https://komarev.com/ghpvc/?username=dharanidharan&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=dharaniuva&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
-<!--
-**dharaniuva/dharaniuva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
