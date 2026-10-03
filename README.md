@@ -226,7 +226,7 @@ Automated penetration testing and vulnerability scanning platform.
 
 | Degree | Institution | Period |
 |--------|-------------|--------|
-| 🎓 **MSc Cyber Security — Merit** | University of Law — Manchester, UK | Feb 2025 – Feb 2026 |
+| 🎓 **MSc Cyber Security — Merit** | University of Law — Manchester, UK | 2025 – 2026 |
 | 📚 **B.Com Computer Applications** | K.S.R. College — India | 2017 – 2020 |
 
 **MSc Relevant Modules:** Network & Penetration Testing · Cyber Hygiene · Cloud Security · Business Simulation · Data Security
@@ -240,8 +240,8 @@ Automated penetration testing and vulnerability scanning platform.
 | Badge | Certification | Provider | Year |
 |-------|--------------|----------|------|
 | 🎯 | **Cisco Ethical Hacking** | Cisco | 2025 |
-| ⚙️ | **ITIL Foundation** | — | — |
-| 🔐 | **CompTIA Security+** *(Training Completion)* | Udemy | 2025 |
+| ⚙️ | **ITIL Foundation** | udemy | 2026 |
+| 🔐 | **CompTIA Security+** | Udemy | 2025 |
 | 📊 | **Splunk Power User** | Udemy | 2025 |
 | 💀 | **Ethical Hacking** | Udemy | 2024 |
 | 🕵️ | **Junior Penetration Tester** | Udemy | 2026 |
